@@ -34,6 +34,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Unsupervised Controllable Text Formalization, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.04556)
 - Large-scale Hierarchical Alignment for Author Style Transfer, Arxiv, [[paper]](https://arxiv.org/abs/1810.08237)
 - Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora, 2018, [[paper]](https://arxiv.org/abs/1810.11878)
+- QuaSE: Sequence Editing under Quantifiable Guidance, EMNLP-2018,[[paper]](https://arxiv.org/pdf/1804.07007.pdf),[[code]](https://bitbucket.org/leoeaton/quase/src/master/)
 
 ## Stylistic Related Papers
 - Controlling Linguistic Style Aspects in Neural Language Generation, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.02633)
